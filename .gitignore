@@ -1,0 +1,13 @@
+java/linearRegression/.idea/.gitignore
+java/linearRegression/.idea/description.html
+java/linearRegression/.idea/encodings.xml
+java/linearRegression/.idea/libraries/junit_junit_4_13_1.xml
+java/linearRegression/.idea/misc.xml
+java/linearRegression/.idea/modules.xml
+java/linearRegression/.idea/project-template.xml
+java/linearRegression/linearRegression.iml
+java/linearRegression/out/production/linearRegression/com/tylerjette/LinearRegression.class
+java/linearRegression/out/production/linearRegression/com/tylerjette/Main.class
+java/linearRegression/out/production/linearRegression/com/tylerjette/tests.class
+java/linearRegression/src/com/tylerjette/Main.java
+java/linearRegression/src/com/tylerjette/tests.java
